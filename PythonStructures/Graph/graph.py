@@ -1,6 +1,12 @@
 from typing import Generic, TypeVar
-from SortedListPython.sortedList import SortedList
-from GraphPython.addable import Addable
+
+import os, sys
+currentdir = os.path.dirname(os.path.realpath(__file__))
+parentdir = os.path.dirname(currentdir)
+sys.path.append(parentdir)
+from SortedList.sortedList import SortedList
+
+from addable import Addable
 
 V = TypeVar('V')
 class Graph(Generic[V]) :

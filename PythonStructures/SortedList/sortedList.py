@@ -1,4 +1,5 @@
 from collections import Iterable
+
 class SortedList(Iterable) :
 
     def __init__(self, initial_list = [], descending = True, unique = False) :
