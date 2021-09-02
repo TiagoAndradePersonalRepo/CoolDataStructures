@@ -3,4 +3,4 @@ This repository will contain the Implementation of Data Structures and related a
 
 Data Structures have been implemented for these programming languages :
 
-- [Python](PythonStructures/)
+- [Python](PythonStructures/)  <!-- [Python](PythonStructures/README.md) -->
