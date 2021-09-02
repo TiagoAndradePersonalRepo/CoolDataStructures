@@ -1,4 +1,4 @@
-# [__CoolDataStructures__](..) <!-- [__CoolDataStructures__](../README.md) --> #
+# [__CoolDataStructures__](https://github.com/TiagoPersonalRepos/CoolDataStructures) <!-- [__CoolDataStructures__](../README.md) --> #
 # PythonStructures #
 
 These are the Data Structures currently implemented for Python :
