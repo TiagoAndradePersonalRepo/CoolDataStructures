@@ -20,6 +20,7 @@ def test_bst2() :
         bst.addNode(i)
 
     print(bst.getRoot())
+    print()
     print(bst)
     print()
     print(bst.nodesByLevel())
