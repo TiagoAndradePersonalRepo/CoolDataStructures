@@ -216,3 +216,5 @@ class BinarySearchTree() :
                 result += "%s\n" % (str(node.getValue()))
             result = self.__reprHelper(node.getLeft(), level + 1, result)
         return result
+
+    # implement find
